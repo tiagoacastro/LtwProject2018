@@ -26,4 +26,4 @@ Project for FEUP MIEIC's curricular unit LTW - Reddit clone.
 
 ## Authors
 
-Done in collaboration with [António Cruz](https://github.com/AntoniooCruz) and [Tiago Castro](https://github.com/tiagoacastro).
+Done in collaboration with [António Cruz](https://github.com/AntoniooCruz) and [Pedro Fernandes](https://github.com/MrZephyr17).
